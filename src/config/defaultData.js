@@ -1,0 +1,1 @@
+export const RefreshTime= 19 * 60 * 1000;
